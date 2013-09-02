@@ -1,9 +1,9 @@
 FFUKinectTool
 =============
 
-FUKinectTool - A class to detect gestures and postures and it has some helper functions for Kinect camera functions
+FUKinectTool - A class to detect gestures and postures and it has some helper functions for Kinect camera functions.
 It's not perfect, it may even fall below average good but it gets the job done. I haven't updated it for a long time,
-although it workd with Microsoft Kinect SDK v1.7.
+although it worked with Microsoft Kinect SDK v1.7.
 
 
 Classes
